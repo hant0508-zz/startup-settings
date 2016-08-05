@@ -26,7 +26,7 @@ To save the disk space, you can delete all the downloaded files and dependencies
 ### Usage
 
 After the installation you can find the program in application menu or run
-`strartup-settings` in terminal.
+`startup-settings` in terminal.
 
 Enter startup command into the `Command` field. It can be:
 - full path to file: `/usr/bin/file.sh`
