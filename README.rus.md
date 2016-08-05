@@ -38,9 +38,6 @@ Arch/Manjaro x64: `sudo pacman -S gcc-multilib git make gtk3` <br />
 В зависимости от оконного менеджера, вы так же можете использовать drag-and-drop
 (перетаскивание). Gnome 3 разрешает даже перетаскивать файлы.
 
-![alt text]("# gif")
-![alt text]("# gif")
-
 ### Скриншоты
 
 ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 1.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 2.gif)
