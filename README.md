@@ -10,6 +10,19 @@ used in any other desktop environment.
 
 ### Installation
 
+If you are using Debian/Ubuntu, you can install the application from package
+
+For amd64: <br />
+`wget https://github.com/hant0508/startup-settings/raw/master/debian/startup-settings-amd64.deb` <br />
+`sudo dpkg -i startup-settings-amd64.deb` <br />
+For i386: <br />
+`wget https://github.com/hant0508/startup-settings/raw/master/debian/startup-settings-i386.deb` <br />
+`sudo dpkg -i startup-settings-i386.deb`
+
+If you've installed the package, you don't need to build the program from source code, go to [usage](#usage).
+
+### Building
+
 - Installing dependencies <br />
 Debian/Ubuntu: `sudo apt-get install g++ make git libgtk-3-dev` <br />
 Arch/Manjaro x32: `sudo pacman -S gcc git make gtk3` <br />
