@@ -11,6 +11,19 @@ GTK 3, предоставляет удобный графический инте
 
 ### Установка
 
+Если вы ипользуете Debian/Ubuntu,вы можете установить приложение из пакета.
+
+Для amd64: <br />
+`wget https://github.com/hant0508/startup-settings/raw/master/debian/startup-settings-amd64.deb` <br />
+`sudo dpkg -i startup-settings-amd64.deb` <br />
+Для i386: <br />
+`wget https://github.com/hant0508/startup-settings/raw/master/debian/startup-settings-i386.deb` <br />
+`sudo dpkg -i startup-settings-i386.deb`
+
+Если вы установили пакет, то вам не нужно собирать программу из исходного кода, переходите к [использованию](#Использование).
+
+### Сборка
+
 - Установка зависимостей <br />
 Debian/Ubuntu: `sudo apt-get install g++ make git libgtk-3-dev` <br />
 Arch/Manjaro x32: `sudo pacman -S gcc git make gtk3` <br />
