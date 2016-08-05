@@ -38,9 +38,9 @@ even drag and drop files.
 
 ### Screenshots
 
-![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 1.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 1.gif)
+![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 1.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 2.gif)
 :---:|:---:
-Usage on Gnome3 | Drag-and-drop on Gnome3
+Usage on GNOME 3 | Drag and drop on GNOME 3
 
 
 ![alt-text](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/kde.png "KDE 5") | ![alt-text](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/cinnamon.png "Cinnamon 3") |  ![alt-text](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/xfce4.png "XFCE 4")
