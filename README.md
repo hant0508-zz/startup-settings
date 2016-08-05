@@ -51,5 +51,5 @@ KDE 5                      | Cinnamon 3                | XFCE 4
 
 If you have any problems with the application, [open an
 issue](https://github.com/hant0508/startup-settings/issues/new). Write me [at
-email](mailto:hant0508@gmail.com?subject=GitHub issue | Filters), if you have no
+email](mailto:hant0508@gmail.com?subject=GitHub issue | Startup), if you have no
 GitHub account.
