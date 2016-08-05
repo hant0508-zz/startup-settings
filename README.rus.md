@@ -28,7 +28,7 @@ Arch/Manjaro x64: `sudo pacman -S gcc-multilib git make gtk3` <br />
 ### Использование
 
 После установки вы сможете найти программу в меню приложений или запустить
-`strartup-settings` из терминала.
+`startup-settings` из терминала.
 
 Введите в поле `Command` команду автозагрузки. Это может быть:
 - полный путь к файлу: `/usr/bin/file.sh`
