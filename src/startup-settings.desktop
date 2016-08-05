@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Startup Settings
+Comment=Manage your startup applications
+Exec=startup-settings
+Terminal=false
+Type=Application
+Icon=preferences-system
+Categories=GTK;Settings
