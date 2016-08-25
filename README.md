@@ -2,10 +2,10 @@ Language: **[Русский](/README.rus.md)|English**
 
 # Startup Settings
 
-There is no handy tool to control startup in GNOME 3. To add a custom command to
+There is no handy tool to control startup in GNOME 3. If you want to add a custom command to
 startup you have to create file `~/.config/autostart/file.desktop` manually. This
 simple program written in C++ and GTK 3 provides user friendly graphical interface for
-startup managing. The program is designed especially for GNOME 3, however it cam also be
+startup managing. The program is designed especially for GNOME 3, however it can also be
 used in any other desktop environment.
 
 ### Installation
