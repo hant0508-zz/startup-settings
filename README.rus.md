@@ -11,7 +11,7 @@ GTK 3, предоставляет удобный графический инте
 
 ### Установка
 
-Если вы ипользуете Debian/Ubuntu,вы можете установить приложение из пакета.
+Если вы используете Debian/Ubuntu, вы можете установить приложение из пакета.
 
 Для amd64: <br />
 `wget https://github.com/hant0508/startup-settings/raw/master/debian/startup-settings-amd64.deb` <br />
